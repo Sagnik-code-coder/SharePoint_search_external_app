@@ -1,0 +1,91 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\SagnikM\\source\\repos\\SearchFeature_POC\\SearchFeature_POC.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\SagnikM\\source\\repos\\SearchFeature_POC\\SearchFeature_POC.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\SagnikM\\source\\repos\\SearchFeature_POC\\SearchFeature_POC.csproj",
+        "projectName": "SearchFeature_POC",
+        "projectPath": "C:\\Users\\SagnikM\\source\\repos\\SearchFeature_POC\\SearchFeature_POC.csproj",
+        "packagesPath": "C:\\Users\\SagnikM\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\SagnikM\\source\\repos\\SearchFeature_POC\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\SagnikM\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.Identity.Client": {
+              "target": "Package",
+              "version": "[4.66.2, )"
+            },
+            "Microsoft.SharePoint.Client": {
+              "target": "Package",
+              "version": "[14.0.4762.1000, )"
+            },
+            "Microsoft.SharePoint.Client.Runtime": {
+              "target": "Package",
+              "version": "[15.0.4711.1000, )"
+            },
+            "Microsoft.SharePointOnline.CSOM": {
+              "target": "Package",
+              "version": "[16.1.25409.12000, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

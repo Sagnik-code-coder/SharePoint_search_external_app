@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35208.52
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SearchFeature_POC", "SearchFeature_POC.csproj", "{E45BE596-5506-45DA-9F99-E8C493EE742C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E45BE596-5506-45DA-9F99-E8C493EE742C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E45BE596-5506-45DA-9F99-E8C493EE742C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E45BE596-5506-45DA-9F99-E8C493EE742C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E45BE596-5506-45DA-9F99-E8C493EE742C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {62113C6D-FBD9-47EF-8150-FA002F86877F}
+	EndGlobalSection
+EndGlobal
